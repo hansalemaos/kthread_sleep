@@ -1,6 +1,5 @@
 # A "killable" sleep function for kthread
 
-pip install kthread-sleep
 
 https://pypi.org/project/kthread/
 
@@ -9,6 +8,7 @@ https://pypi.org/project/kthread/
 
 
 ```python
+pip install kthread-sleep 
 import kthread
 import sys
 from kthread_sleep import sleep
