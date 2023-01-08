@@ -1,5 +1,7 @@
 # A "killable" sleep function for kthread
 
+pip install kthread-sleep
+
 https://pypi.org/project/kthread/
 
 **From kthread's pypi site:**
